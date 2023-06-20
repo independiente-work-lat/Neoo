@@ -2,7 +2,7 @@
 
 Neoo is a Web3 Blockchain application that aims to ease crypto transactions between digital wallets
 
-Send crytos across the web now: https://ne00.netlify.app/
+Send crytos across the web now: https://ne00.netlify.app/https://ne00.netlify.app/
 <img src="./assets/neoo.gif" alt="Neoo GIF" />
 
 # Features
