@@ -1,0 +1,25 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "Cd. /client/": {
+      "name": "Cd. /client/",
+      "command": "Cd. /client/",
+      "runAtStart": true
+    },
+    "Cd client": {
+      "name": "Cd client",
+      "command": "Cd client"
+    },
+    "`cd client`": {
+      "name": "`cd client`",
+      "command": "`cd client`"
+    },
+    "`npm run dev`": {
+      "name": "`npm run dev`",
+      "command": "`npm run dev`"
+    }
+  }
+}
